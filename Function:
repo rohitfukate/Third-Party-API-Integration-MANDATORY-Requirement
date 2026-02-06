@@ -1,0 +1,5 @@
+Receives a city name from the frontend
+
+Calls the OpenWeather API
+
+Returns structured weather JSON back to the UI
