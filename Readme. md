@@ -1,0 +1,2 @@
+This project includes a fully working third-party API integration using the OpenWeather API.
+The UI allows users to fetch real-time weather information for any city and display it inside the dashboard.
