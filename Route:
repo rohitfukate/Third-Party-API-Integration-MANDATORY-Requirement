@@ -1,0 +1,1 @@
+GET /api/weather?city=<city_name>
