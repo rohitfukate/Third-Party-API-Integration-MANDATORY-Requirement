@@ -1,0 +1,5 @@
+OpenWeather API
+https://openweathermap.org/api
+
+Purpose:
+Fetch live weather data (temperature, humidity, condition) and display it in the application.
